@@ -1,2 +1,2 @@
-# malwares
-POC Malware for testing detection signatures
+# RANSOMWARE SIMULATOR
+POC Malware for testing ransomware signatures
